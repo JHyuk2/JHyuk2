@@ -1,30 +1,30 @@
-## 😄Ian (이종혁)
+### 😄Ian (이종혁)
 Hi there, this is JongHyuk Lee, I'm enjoying learning about AI and data analysis.  
 Also, I'm interested in DL Modeling for services.
-
-## 👀contact
+<br>
+### 👀contact
 - Name : JongHyuk Lee
 - Email: whdgurdl77@gmail.com
 - Phone: 010-5208-1405
-
-## 💻Skills
+<br>
+### 💻Skills
 - ML/DL: PyTorch, Sklearn
 - Data Analysis: Numpy, Pandas, Matplotplib
 - Language/tools: Python, MySQL
-
-## ❤️Interests
+<br>
+### ❤️Interests
 - LLM
 - NLP
 - Reinforcement Learning
-
-## 🏃History
+<br>
+### 🏃History
 |Type|Date|Contents|Organazation|
 |---------------|--------|-----------|------------|
 |ExtraCurricular|2023.6~10|Bigleader Academy|Bigleader Inc.|
 |ExtraCurricular|2022.1~6|Boostcamp AI tech|Naver Connect|
 |ExtraCurricular|2020.1~7|SSAFY|Samsung Academy|
 
-## 🏅Certification
+### 🏅Certification
 - Engineer Big Data Analysis(빅데이터 분석기사)
 - SQLD
 - ADsP
