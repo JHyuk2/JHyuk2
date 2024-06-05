@@ -1,5 +1,5 @@
 ## 😄Ian (이종혁)
-Hi there, this is JongHyuk Lee, I'm enjoying learning about AI and data analysis.
+Hi there, this is JongHyuk Lee, I'm enjoying learning about AI and data analysis.  
 Also, I'm interested in DL Modeling for services.
 
 ## 👀contact
@@ -11,6 +11,24 @@ Also, I'm interested in DL Modeling for services.
 - ML/DL: PyTorch, Sklearn
 - Data Analysis: Numpy, Pandas, Matplotplib
 - Language/tools: Python, MySQL
+
+## ❤️Interests
+- LLM
+- NLP
+- Reinforcement Learning
+
+## 🏃History
+|Type|Date|Contents|Organazation|
+|---------------|--------|-----------|------------|
+|ExtraCurricular|2023.6~10|Bigleader Academy|Bigleader Inc.|
+|ExtraCurricular|2022.1~6|Boostcamp AI tech|Naver Connect|
+|ExtraCurricular|2020.1~7|SSAFY|Samsung Academy|
+
+## 🏅Certification
+- Engineer Big Data Analysis(빅데이터 분석기사)
+- SQLD
+- ADsP
+- SAP ERP MM(module)
 
 <!--
 **JHyuk2/JHyuk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
