@@ -2,7 +2,7 @@
 Hi there, this is JongHyuk Lee, I'm enjoying learning about AI and data analysis.  
 Also, I'm interested in DL Modeling for services.
 
-### 👀contact
+### 👀Contact
 - Name : JongHyuk Lee
 - Email: whdgurdl77@gmail.com
 - Phone: 010-5208-1405
