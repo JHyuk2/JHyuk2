@@ -1,6 +1,8 @@
 ### 😄Ian (이종혁)
 Hi there, this is JongHyuk Lee, I'm enjoying learning about AI and data analysis.  
-Also, I'm interested in DL Modeling for services.
+Also, I'm interested in DL Modeling for services.  
+
+🌱 I'm currently learning LLM and Computer vision
 
 ### 👀Contact
 - Name : JongHyuk Lee
@@ -28,7 +30,7 @@ Also, I'm interested in DL Modeling for services.
 - Engineer Big Data Analysis(빅데이터 분석기사)
 - SQLD
 - ADsP
-- SAP ERP MM(module)
+- SAP ERP MM(Material Management) module
 
 <!--
 **JHyuk2/JHyuk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
