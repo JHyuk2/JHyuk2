@@ -32,6 +32,10 @@ Also, I'm interested in DL Modeling for services.
 - ADsP
 - SAP ERP MM(Material Management) module
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
+
 <!--
 **JHyuk2/JHyuk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
