@@ -2,11 +2,11 @@
 Hi there, this is JongHyuk Lee, I'm enjoying learning about AI and data analysis.  
 Also, I'm interested in DL Modeling for services.  
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{JHyuk2}?pet-id=1" width="400" height="300" float='left'/>
-</a>
-
 🌱 I'm currently learning LLM and Computer vision
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{JHyuk2}?pet-id=1" width="400" height="200" float='right'/>
+</a>
 
 ### 👀Contact
 - Name : JongHyuk Lee
