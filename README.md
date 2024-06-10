@@ -2,6 +2,10 @@
 Hi there, this is JongHyuk Lee, I'm enjoying learning about AI and data analysis.  
 Also, I'm interested in DL Modeling for services.  
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{JHyuk2}?pet-id=1" width="1000" height="120"/>
+</a>
+
 🌱 I'm currently learning LLM and Computer vision
 
 ### 👀Contact
@@ -32,9 +36,7 @@ Also, I'm interested in DL Modeling for services.
 - ADsP
 - SAP ERP MM(Material Management) module
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
-</a>
+
 
 <!--
 **JHyuk2/JHyuk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
