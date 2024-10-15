@@ -10,6 +10,7 @@ Also, I'm interested in DL Modeling for services.
 
 
 ### 🔽Projects & CV
+Below is the project I worked on.
 - [MyProject Repo](https://github.com/JHyuk2/MyProjects)
 - [Curriculum Vitae](https://github.com/JHyuk2/html-resume/blob/master/JongHyeok_CV_2024.pdf)
 ---
