@@ -1,12 +1,18 @@
+
 ### 😄Ian (이종혁)
 Hi there, this is JongHyuk Lee, I'm enjoying learning about AI and data analysis.  
 Also, I'm interested in DL Modeling for services.  
-
 🌱 I'm currently learning LLM (langchain, langGraph, RAG)
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{JHyuk2}?pet-id=1" width="400" height="200" float='right'/>
 </a>
+
+
+### 🔽Projects & CV
+- [MyProject Repo](https://github.com/JHyuk2/MyProjects)
+- [Curriculum Vitae](https://github.com/JHyuk2/html-resume/blob/master/JongHyeok_CV_2024.pdf)
+---
 
 ### 👀Contact
 - Name : JongHyuk Lee
@@ -14,14 +20,14 @@ Also, I'm interested in DL Modeling for services.
 - Phone: 010-5208-1405
 
 ### 💻Skills
-- ML/DL: PyTorch, Sklearn
-- Data Analysis: Numpy, Pandas, Matplotplib
-- Language/tools: Python, MySQL
+- Language/tools: Python, MySQL, Git
+- Library & Framework: Pandas, PyTorch, Scikit-learn, Hugging-face / Java Spring
+- Tech Stack : NLP, ML, LLM, Data Preprocessing
 
 ### ❤️Interests
 - LLM
 - NLP
-- Reinforcement Learning
+- ML, DL
 
 ### 🏃History
 |Type|Date|Contents|Organazation|
@@ -32,8 +38,8 @@ Also, I'm interested in DL Modeling for services.
 
 ### 🏅Certification
 - Engineer Big Data Analysis(빅데이터 분석기사)
-- SQLD
-- ADsP
+- SQLD (SQL 개발자)
+- ADsP (빅데이터 준전문가)
 - SAP ERP MM(Material Management) module
 
 
