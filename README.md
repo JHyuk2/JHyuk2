@@ -22,7 +22,7 @@ Below is the project I worked on.
 
 ### 💻Skills
 - Language/tools: Python, MySQL, Git
-- Library & Framework: Pandas, PyTorch, Scikit-learn, Hugging-face / Java Spring
+- Library & Framework: Pandas, PyTorch, Scikit-learn, Hugging-face
 - Tech Stack : NLP, ML, LLM, Data Preprocessing
 
 ### ❤️Interests
